@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 public class Pong extends JFrame {
 	
 	private final static String WINDOW_TITLE = "Pong";
-	private final static int WINDOW_WIDTH = 600;
+	private final static int WINDOW_WIDTH = 900; //Changed to 900 experiment2
 	private final static int WINDOW_HEIGHT = 600;
 	
 	public Pong() {
